@@ -5,7 +5,7 @@ I’m Muhammad Septian Zamzani, a **Data Scientist** driven by a passion for tur
 
 ---
 
-- 🌱 **Currently Learning**: Advanced deep learning, Statistic,Data Visualization, and NLP techniques.
+- 🌱 **Currently Learning**: Advanced deep learning,Computer Vision, Statistic,Data Visualization, and NLP techniques.
 - 🔍 **Collaboration Interests**: Open to collaborating on comprehensive data solutions, ranging from processing raw data to deploying machine learning models in production. Automated workflows for big datasets, cloud-based data solutions, and advanced AI techniques
 - 🌐 **Background Insight**: My background in diverse fields like creative and education provides me with a unique perspective on the role of data across various industries, driving my passion for developing adaptable, real-world solutions.. 
 - 🎉 **Fun Fact**: My journey began in *Guidance and Counseling*, where I learned the art of understanding people—a skill I now apply to understanding data and making it accessible to all.
