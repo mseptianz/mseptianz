@@ -12,16 +12,6 @@ I’m Muhammad Septian Zamzani, a **Data Scientist** driven by a passion for tur
 
 ---
 
-### 🛠 **Skills**
-
-- **Languages**: Python  
-- **Data Analysis & Visualization**: Tableau, Pandas, Matplotlib  
-- **Database Management**: PostgreSQL  
-- **Machine Learning & AI**: Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision
-- **Other Skills**: ETL Development, Feature Engineering, Data Wrangling, Real-time Data Pipelines
-
----
-
 ### 🎓 **Education**
 
 - **Hacktiv8 Data Science Bootcamp**  
