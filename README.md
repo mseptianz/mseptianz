@@ -1,4 +1,4 @@
-# **Muhammad-Septian-Zamzani - Data Analyst**
+# **Muhammad-Septian-Zamzani - Data Scientist**
 
 👋**Hello this is my profile**😁
 
